@@ -7,7 +7,7 @@ print("=========================")
 volume = int(input("Masukan volume :"))
 sisi = int(input("Masukan sisi :"))
 
-v = s3
+v = 
 
 
 print(f'volume :{volume}')
