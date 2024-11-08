@@ -12,5 +12,5 @@ d = int(input("Masukan sisi D :"))
 luas = 1/2 * (sisi_atas + sisi_bawah)
 keliling = a + b + c + d
 
-print(f"luas :{luas}")
+print(f"luas : {luas}")
 print(f"keliling :{keliling}")
